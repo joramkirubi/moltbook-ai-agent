@@ -1,0 +1,8 @@
+# API Keys
+credentials.json
+*.key
+.env
+
+# Logs
+*.log
+autopost_log.txt
